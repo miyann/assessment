@@ -1,0 +1,17 @@
+body {
+    background-color: #274c77;
+    color: #fdffff;
+    /* text-align: center; 全ての文字がセンターになる */
+    width: 500px; /* 左揃え*/
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: #072f70;
+    color: #fdffff;
+    border-style: none;
+}
+input {
+    height: 24px;
+}
